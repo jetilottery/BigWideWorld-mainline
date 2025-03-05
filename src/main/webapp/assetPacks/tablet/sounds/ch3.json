@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch3.webm",
+    "ch3.mp3",
+    "ch3.ogg"
+  ],
+  "sprite": {
+    "Bet_Max": [
+      0,
+      2440.997732426304
+    ],
+    "Lucky Number Reveal 1": [
+      3500,
+      2379.5464852607715
+    ],
+    "Your Number Reveal 2-SuitcaseClasp": [
+      7000,
+      1333.0385487528354
+    ]
+  }
+}

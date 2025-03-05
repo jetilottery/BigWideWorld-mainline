@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch4.webm",
+    "ch4.mp3",
+    "ch4.ogg"
+  ],
+  "sprite": {
+    "Generic click": [
+      0,
+      967.6190476190476
+    ],
+    "Your Number Reveal 1-SuitcaseClasp": [
+      1500,
+      1592.1315192743766
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch5.webm",
+    "ch5.mp3",
+    "ch5.ogg"
+  ],
+  "sprite": {
+    "Lucky Number Reveal 2": [
+      0,
+      2212.9024943310656
+    ],
+    "Your Number Reveal 3-SuitcaseClasp": [
+      3500,
+      1251.1111111111113
+    ]
+  }
+}
